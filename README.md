@@ -16,7 +16,7 @@ That's why I like to make things that make a difference.
 
 ### Talking about Personal Stuffs:
 
-- 👨‍🎓 I'm a **Senior Software Engineering Student**
+- 👨‍🎓 I work as **Freelancer / Technical Consultant / Software Architect** 
 - 💬 Ask me about anything, I am happy to help
 - ✍ I'm a **Technical blogger** with 5,000+ user reads
 - 🌱 I really enjoy working with cloud technologies and microservices. They are exciting and challenging areas to work in, and I find them very rewarding.
